@@ -1,6 +1,8 @@
 # Python dependencies
 __pycache__/
 *.py[cod]
+# Local project logs
+log.md
 *$py.class
 venv/
 ENV/

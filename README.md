@@ -15,4 +15,4 @@ A collection of professional automation tools and database management scripts de
 - **Tech Stack:** PHP (PDO), MySQL.
 
 ---
-*Created by Roman P. - Software Engineer & Automation Specialist*
+*Created by Roman Puzak - Software Engineer & Automation Specialist*
